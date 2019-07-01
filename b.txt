@@ -1,0 +1,25 @@
+Git的笔记
+Git的命令：
+命令行换行：\换行的意思
+命令行终结：ctrl+c
+命令行的翻页：ctrl+u退出
+
+搜索：/+想要索的东西
+想要退出：q
+J：下一行
+K:上一行
+G:搜索
+Dd：删除
+git命令
+git init
+git add\\加入文件
+git rm\\删除
+git statu//显示变更信息
+git commit
+Add加入到index区域，然后用commit到Repository
+index：暂存区
+repository: 仓库区
+将git推送到远程仓库
+例如：github
+同步远程仓库命令
+Git闯关练习：https://try.github.io
