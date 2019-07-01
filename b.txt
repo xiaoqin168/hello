@@ -23,3 +23,5 @@ repository: 仓库区
 例如：github
 同步远程仓库命令
 Git闯关练习：https://try.github.io
+git remote add origin (远程仓库地址)//git仓库和远程仓库关联
+git -u origin master//将所有内人推送到git 仓库
